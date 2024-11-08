@@ -1,0 +1,14 @@
+.big-container {
+    padding: 20px;
+    text-align: center;
+    margin-top:80px;
+    background-color: rgb(222, 204, 255); 
+    width:1600px;
+    height:400px;
+}
+.container1 {
+    max-width: 100%; /* Ensure image doesn't exceed its container */
+    height: auto; /* Maintain aspect ratio */
+
+}
+
